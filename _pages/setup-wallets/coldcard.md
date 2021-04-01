@@ -22,10 +22,10 @@ Follow the steps on Coldcard's website:
 
 1. Remove the microSD card from your Coldcard and put it in your computer's card reader.
 
-1. On Specter-Desktop: Click `+ Add new device` > `Choose files` and select the exported file from the SD card:
+1. On Specter-Desktop: Click `+ Add new device` > `Upload from SD Card` and select the exported file from the SD card:
 ![](/assets/img/setup-coldcard-specter-scan.jpg){:width="70%" class="border_image"}
 
-1. Give your device a name (e.g. `Coldcard`) and click `Continue`.
+1. Give your device a name (e.g. `Coldcard`) and click `Add Device`.
 ![](/assets/img/setup-coldcard-specter-scanned.jpg){:width="70%" class="border_image"}
 
 

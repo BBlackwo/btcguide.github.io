@@ -17,5 +17,13 @@ Some good places to store a seed:
 * **Buried in a mountain** - X marks the spot!
 * **With a trusted family member** (or very close friend) - remember that if you give away `m` seeds, this person can spend your bitcoin.
 
+#### Seeds and Hardware Wallets
+
+https://github.com/btcguide/btcguide.github.io/issues/30
+
+This is a personal choice, but my default recommendation is to put the seed phrase physical backup for each hardware wallet with that wallet (and don’t use a passphrase).
+
+No matter what don’t keep multiple hardware wallets in the same physical location!
+
 
 {% include next_steps.md next_url="/backup-wallet/public-keys" next_name="Backup Public Keys" %}

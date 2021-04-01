@@ -30,7 +30,7 @@ Now that we have our multisig wallet configured in Specter-Desktop, we need to l
 Specter-Desktop will display a popup like this:  
 ![](/assets/img/coordinate-multisig-specter-desktop-export-cobo-qr.png){:width="35%" class="border_image"}
 
-1. Scan the QR code on your Cobo Vault:  
+1. Scan the QR code on your Cobo Vault `Import...`:  
 ![](/assets/img/coordinate-multisig-specter-desktop-import-cobo-qr.png){:width="70%" class="border_image"}
 
 1. View wallet information and confirm:    

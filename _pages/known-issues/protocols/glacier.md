@@ -4,7 +4,7 @@ title: Glacier
 
 TODO: add content
 
-https://glacierprotocol.org/docs/extend/improvements/
+<https://glacierprotocol.org/docs/extend/improvements/>
 
 #### Address Reuse
 Multisig (using trusted stateful displays) largely solves this problem.

@@ -74,8 +74,14 @@ This option becomes less feasible as the number of bitcoin addresses you need ri
 Steps:
 
 1. Follow the instructions in the previous step and setup a clean (freshly wiped) machine to verify receive addresses.
-1. Export a very large amount of receive addresses to a file.
+1. Export a very large amount of receive addresses to a file. -- TODO: Add instructions on how to do this!
 You never want to have to repeat this setup and paper is cheap, so consider a very large number (say 10,000 addresses).
+a. Electrum: Click the console tab, then copy and paste the command below into it, then press your enter key. `listaddresses()`
+
+Do the for loop to generate how many addresses you want
+
+https://www.reddit.com/r/Electrum/comments/64yopx/electrum_how_to_save_asexport_a_lot_of_receiving/
+https://bitcointalk.org/index.php?topic=1866989.0
 1. Print this file, and consider making multiple copies.
 
 Now that you never need to check this computer again, you can go about using it for whatever you like and not have to worry about keeping it secure.

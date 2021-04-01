@@ -8,6 +8,7 @@ title: Contributors
 
 #### Contributors
 * [Stephan Livera](https://twitter.com/stephanlivera)
+* GitHub contributors link
 
 #### Reviewers
 * TODO: add
